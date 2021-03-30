@@ -1,0 +1,4 @@
+Сотрудников в библиотеке: 3
+ADMIN - Администратор, ADRESS, пасспорт AB1234567
+GUEST - Гость, ADRESS, пасспорт AB1234567
+qwerty - qwe qwe  qwe qw, 123123edw asd asd qwe qweqw, пасспорт AB98712365
